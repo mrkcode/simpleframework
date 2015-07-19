@@ -1,0 +1,167 @@
+2015-07-07 15:27:58 [127.0.0.1] [Notice] Use of undefined constant d - assumed 'd' in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-07 16:41:56 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:53
+2015-07-07 16:43:01 [127.0.0.1] [Fatal Error] Class '\Controller\' not found in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:21
+2015-07-07 16:43:19 [127.0.0.1] [Fatal Error] Class '\Controller\' not found in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:21
+2015-07-08 09:33:34 [127.0.0.1] [Fatal Error] Class '\Controller\\Home' not found in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:21
+2015-07-08 09:35:52 [127.0.0.1] [Fatal Error] Class '\Controller\\Home' not found in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:21
+2015-07-08 09:35:53 [127.0.0.1] [Fatal Error] Class '\Controller\\Home' not found in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:21
+2015-07-08 09:35:54 [127.0.0.1] [Fatal Error] Class '\Controller\\Home' not found in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:21
+2015-07-08 09:44:13 [127.0.0.1] [Warning] call_user_func() expects parameter 1 to be a valid callback, class 'Controller\Admin\Home' does not have a method 'dAction' in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:35
+2015-07-08 09:46:03 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:54
+2015-07-08 09:46:07 [127.0.0.1] [Fatal Error] Class '\Controller\' not found in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:21
+2015-07-08 09:46:16 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:54
+2015-07-08 10:46:31 [127.0.0.1] [Fatal Error] Class name must be a valid object or a string in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:32
+2015-07-08 10:47:09 [127.0.0.1] [Notice] Undefined offset: 0 in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:21
+2015-07-08 10:49:09 [127.0.0.1] [Warning] call_user_func() expects parameter 1 to be a valid callback, class 'Controller\Admin\Home' does not have a method 'ArrayAction' in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:52
+2015-07-08 10:52:35 [127.0.0.1] [Notice] Undefined offset: 0 in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:21
+2015-07-08 11:24:15 [127.0.0.1] [Fatal Error] Class '\Controller\' not found in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:31
+2015-07-08 11:24:26 [127.0.0.1] [Fatal Error] Class '\Controller\' not found in D:\apache-2.4.12\htdocs\lib\vendor\Controller.php:31
+2015-07-08 11:42:58 [127.0.0.1] [Notice] Use of undefined constant d - assumed 'd' in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 11:43:12 [127.0.0.1] [Unknown]  in :
+2015-07-08 11:43:42 [127.0.0.1] [Unknown]  in :
+2015-07-08 11:45:17 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 11:45:19 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 11:48:38 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:01:30 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:03:43 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:04:00 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:04:11 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:04:20 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:04:35 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:04:41 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:20:07 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:20:12 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:20:15 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:20:44 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:47:16 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:47:27 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:56:47 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 12:56:49 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 13:02:03 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 13:33:15 [127.0.0.1] [Fatal Error] Call to undefined function d() in D:\apache-2.4.12\htdocs\lib\index.php:18
+2015-07-08 13:33:21 [127.0.0.1] [Warning] array_values() expects parameter 1 to be array, null given in D:\apache-2.4.12\htdocs\lib\vendor\Error.php:89
+2015-07-08 13:35:31 [127.0.0.1] [Warning] array_values() expects parameter 1 to be array, null given in D:\apache-2.4.12\htdocs\lib\vendor\Error.php:89
+2015-07-08 13:37:11 [127.0.0.1] [Warning] array_values() expects parameter 1 to be array, null given in D:\apache-2.4.12\htdocs\lib\vendor\Error.php:88
+2015-07-08 13:37:34 [127.0.0.1] [Warning] include(Route.php): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\index.php:12
+2015-07-08 13:37:34 [127.0.0.1] [Warning] include(Route.php): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\index.php:12
+2015-07-08 13:41:09 [127.0.0.1] [Notice] Undefined index: article in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:127
+2015-07-08 14:06:38 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-08 14:08:20 [127.0.0.1] [Notice] Undefined index: suffix in D:\apache-2.4.12\htdocs\lib\vendor\Helpers.php:82
+2015-07-08 14:13:58 [127.0.0.1] [Notice] Undefined index: suffix in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:135
+2015-07-08 17:22:38 [127.0.0.1] [Parse Error] syntax error, unexpected '=', expecting ']' in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php:8
+2015-07-08 17:33:37 [127.0.0.1] [Notice] Undefined index: HTTP_PROTOCOL in D:\apache-2.4.12\htdocs\lib\vendor\Helpers.php:59
+2015-07-09 14:59:07 [127.0.0.1] [Warning] require(view/base.php
+): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\Helpers.php:166
+2015-07-09 15:00:49 [127.0.0.1] [Warning] require(view/base.php): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\Helpers.php:166
+2015-07-09 15:00:50 [127.0.0.1] [Warning] require(view/base.php): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\Helpers.php:166
+2015-07-09 15:00:50 [127.0.0.1] [Warning] require(view/base.php): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\Helpers.php:166
+2015-07-09 15:40:06 [127.0.0.1] [Notice] Undefined variable: url in D:\apache-2.4.12\htdocs\lib\application\view\base.php:2
+2015-07-09 15:52:16 [127.0.0.1] [Warning] require(viewbasephp): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\Helpers.php:158
+2015-07-10 07:18:56 [127.0.0.1] [Strict] Only variables should be passed by reference in D:\apache-2.4.12\htdocs\lib\vendor\Helpers.php:176
+2015-07-10 07:35:25 [127.0.0.1] [Warning] require(viewbase.php): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\Helpers.php:158
+2015-07-10 07:45:06 [127.0.0.1] [Fatal Error] Cannot pass parameter 2 by reference in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php:11
+2015-07-10 07:45:41 [127.0.0.1] [Notice] Undefined variable: css in D:\apache-2.4.12\htdocs\lib\application\view\base.php:1
+2015-07-10 08:15:08 [127.0.0.1] [Warning] file_get_contents(css/style.css): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\Helpers.php:198
+2015-07-10 08:16:42 [127.0.0.1] [Warning] file_get_contents(view/css/style.css): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\Helpers.php:198
+2015-07-10 08:21:39 [127.0.0.1] [Warning] file_get_contents(view/css/style.css): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\Helpers.php:198
+2015-07-10 09:24:29 [127.0.0.1] [Fatal Error] Class 'Controller\View' not found in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php:7
+2015-07-10 09:24:43 [127.0.0.1] [Recoverable Error] Argument 2 passed to View::__construct() must be of the type array, string given, called in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php on line 9 and defined in D:\apache-2.4.12\htdocs\lib\vendor\View.php:38
+2015-07-10 09:28:10 [127.0.0.1] [Warning] require(/home.php): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\View.php:67
+2015-07-10 09:28:52 [127.0.0.1] [Fatal Error] Call to undefined function od_get_clean() in D:\apache-2.4.12\htdocs\lib\vendor\View.php:69
+2015-07-10 09:29:29 [127.0.0.1] [Notice] Undefined variable: content in D:\apache-2.4.12\htdocs\lib\application\view\base.php:2
+2015-07-10 09:29:48 [127.0.0.1] [Fatal Error] Class 'Compile' not found in D:\apache-2.4.12\htdocs\lib\application\view\base.php:1
+2015-07-10 09:30:24 [127.0.0.1] [Warning] require(D:\apache-2.4.12\htdocs\lib\application\view/d.php): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\View.php:67
+2015-07-10 09:30:31 [127.0.0.1] [Fatal Error] Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in D:\apache-2.4.12\htdocs\lib\vendor\View.php:65
+2015-07-10 09:34:24 [127.0.0.1] [Fatal Error] Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in D:\apache-2.4.12\htdocs\lib\vendor\View.php:69
+2015-07-10 10:30:29 [127.0.0.1] [Fatal Error] Class 'Controller\Css' not found in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php:13
+2015-07-10 10:30:30 [127.0.0.1] [Fatal Error] Class 'Controller\Css' not found in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php:13
+2015-07-10 10:30:54 [127.0.0.1] [Notice] Undefined property: View::$css in D:\apache-2.4.12\htdocs\lib\application\view\home.php:4
+2015-07-10 10:31:30 [127.0.0.1] [Warning] file_get_contents(/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10.07.2015, 8:15:48
+    Author     : Алексей
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}): failed to open stream: Invalid argument in D:\apache-2.4.12\htdocs\lib\vendor\Css.php:48
+2015-07-10 10:41:28 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-10 10:42:34 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-10 10:47:01 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-10 11:09:55 [127.0.0.1] [Parse Error] syntax error, unexpected '/', expecting ',' or ';' in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php:6
+2015-07-10 11:10:07 [127.0.0.1] [Fatal Error] Class 'Compiler\Css' not found in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php:14
+2015-07-10 11:10:22 [127.0.0.1] [Fatal Error] Class 'Compiler\Css' not found in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php:14
+2015-07-10 11:10:23 [127.0.0.1] [Fatal Error] Class 'Compiler\Css' not found in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php:14
+2015-07-10 11:10:23 [127.0.0.1] [Fatal Error] Class 'Compiler\Css' not found in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php:14
+2015-07-10 11:10:23 [127.0.0.1] [Fatal Error] Class 'Compiler\Css' not found in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php:14
+2015-07-10 11:10:39 [127.0.0.1] [Fatal Error] Call to undefined method Compile\Css::href() in D:\apache-2.4.12\htdocs\lib\application\view\base.php:1
+2015-07-10 11:10:59 [127.0.0.1] [Fatal Error] Call to undefined method Compile\Css::uri() in D:\apache-2.4.12\htdocs\lib\application\view\base.php:1
+2015-07-10 11:11:34 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-10 11:20:45 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-10 11:53:27 [127.0.0.1] [Warning] file_put_contents(/temp/compile.css): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\compile\Compiler.php:71
+2015-07-10 11:56:01 [127.0.0.1] [Warning] file_put_contents(/temp/compile.css): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\compile\Compiler.php:71
+2015-07-10 11:57:55 [127.0.0.1] [Warning] file_put_contents(/temp/compile.css): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\compile\Compiler.php:71
+2015-07-10 11:57:55 [127.0.0.1] [Warning] file_put_contents(/temp/compile.css): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\compile\Compiler.php:71
+2015-07-10 11:57:56 [127.0.0.1] [Warning] file_put_contents(/temp/compile.css): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\compile\Compiler.php:71
+2015-07-10 11:57:56 [127.0.0.1] [Warning] file_put_contents(/temp/compile.css): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\compile\Compiler.php:71
+2015-07-10 12:17:17 [127.0.0.1] [Fatal Error] Class 'Compress\Compresser' not found in D:\apache-2.4.12\htdocs\lib\vendor\compress\Css.php:16
+2015-07-10 12:37:34 [127.0.0.1] [Fatal Error] Class 'Compress\Exception' not found in D:\apache-2.4.12\htdocs\lib\vendor\compress\Compresser.php:72
+2015-07-10 12:37:52 [127.0.0.1] [Exception] Must specify: $compileFileName in Compress\Compresser and $tempFolder in __construct in D:\apache-2.4.12\htdocs\lib\vendor\compress\Compresser.php:74
+2015-07-10 12:39:32 [127.0.0.1] [Exception] Must specify: $compileFileName in Compress\Compresser and $tempFolder in __construct in D:\apache-2.4.12\htdocs\lib\vendor\compress\Compresser.php:74
+2015-07-10 12:40:02 [127.0.0.1] [Notice] Use of undefined constant self - assumed 'self' in D:\apache-2.4.12\htdocs\lib\vendor\compress\Compresser.php:75
+2015-07-10 12:40:12 [127.0.0.1] [Exception] Must specify: $compileFileName in Compress\Css and $tempFolder in __construct in D:\apache-2.4.12\htdocs\lib\vendor\compress\Compresser.php:74
+2015-07-10 12:42:34 [127.0.0.1] [Notice] Undefined variable: css in D:\apache-2.4.12\htdocs\lib\vendor\compress\Compresser.php:56
+2015-07-10 12:42:47 [127.0.0.1] [Exception] Must specify: $compileFileName in Compress\Css and $tempFolder in __construct in D:\apache-2.4.12\htdocs\lib\vendor\compress\Compresser.php:76
+2015-07-10 12:55:49 [127.0.0.1] [Unknown] Method View::__tostring() cannot take arguments in D:\apache-2.4.12\htdocs\lib\vendor\View.php:68
+2015-07-10 12:56:03 [127.0.0.1] [Notice] Undefined property: View::$tplName in D:\apache-2.4.12\htdocs\lib\vendor\View.php:61
+2015-07-10 12:57:21 [127.0.0.1] [Warning] require(view/view/home.php.php): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\View.php:87
+2015-07-10 12:59:09 [127.0.0.1] [Warning] require(view/homephp): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\View.php:89
+2015-07-10 13:34:16 [127.0.0.1] [Parse Error] syntax error, unexpected 'vars' (T_STRING), expecting function (T_FUNCTION) in D:\apache-2.4.12\htdocs\lib\vendor\View.php:5
+2015-07-10 13:44:19 [127.0.0.1] [Parse Error] syntax error, unexpected ''#<\/?style>#'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in D:\apache-2.4.12\htdocs\lib\vendor\compress\CssCompress.php:21
+2015-07-10 13:44:43 [127.0.0.1] [Parse Error] syntax error, unexpected ''#<[/]?style>#'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in D:\apache-2.4.12\htdocs\lib\vendor\compress\CssCompress.php:21
+2015-07-12 01:22:46 [127.0.0.1] [Recoverable Error] Method View::__toString() must return a string value in D:\apache-2.4.12\htdocs\lib\vendor\compress\Compresser.php:62
+2015-07-12 01:24:21 [127.0.0.1] [Recoverable Error] Method View::__toString() must return a string value in D:\apache-2.4.12\htdocs\lib\vendor\compress\Compresser.php:62
+2015-07-12 10:15:03 [127.0.0.1] [Warning] Missing argument 1 for Compress\Compresser::__construct(), called in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php on line 19 and defined in D:\apache-2.4.12\htdocs\lib\vendor\compress\Compresser.php:27
+2015-07-12 10:19:11 [127.0.0.1] [Warning] file_put_contents(temp/Controller\Home): failed to open stream: No such file or directory in D:\apache-2.4.12\htdocs\lib\vendor\compress\Compresser.php:64
+2015-07-12 10:20:37 [127.0.0.1] [Fatal Error] Call to undefined method Compress\HtmlCompress::getBody() in D:\apache-2.4.12\htdocs\lib\application\Controller\Home.php:24
+2015-07-12 11:45:41 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-12 11:45:56 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-12 11:46:15 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-12 11:46:16 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-12 11:49:42 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-12 11:49:47 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-12 11:49:50 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-12 11:49:52 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:51
+2015-07-12 13:23:32 [127.0.0.1] [Notice] Use of undefined constant d - assumed 'd' in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:2
+2015-07-12 13:25:06 [127.0.0.1] [Notice] Use of undefined constant d - assumed 'd' in D:\apache-2.4.12\htdocs\lib\vendor\Router.php:2
+2015-07-12 13:40:18 [127.0.0.1] [Notice] Use of undefined constant cd - assumed 'cd' in D:\apache-2.4.12\htdocs\lib\index.php:45
+2015-07-19 12:24:55 [127.0.0.1] [Fatal Error] Class 'Controller\View' not found in D:\apache-2.4.12\htdocs\or\application\Controller\Home.php:8
+2015-07-19 12:31:12 [127.0.0.1] [Parse Error] syntax error, unexpected '/', expecting ',' or ';' in D:\apache-2.4.12\htdocs\or\application\Controller\Home.php:6
+2015-07-19 12:31:24 [127.0.0.1] [Parse Error] syntax error, unexpected ';', expecting ']' in D:\apache-2.4.12\htdocs\or\application\Controller\Home.php:14
+2015-07-19 12:31:33 [127.0.0.1] [Fatal Error] Class 'Controller\JsCompressor' not found in D:\apache-2.4.12\htdocs\or\application\Controller\Home.php:14
+2015-07-19 12:33:21 [127.0.0.1] [Fatal Error] Class 'Controller\CssCompress' not found in D:\apache-2.4.12\htdocs\or\application\Controller\Home.php:15
+2015-07-19 12:34:02 [127.0.0.1] [Exception] Path does not match any rule in D:\apache-2.4.12\htdocs\or\vendor\Router.php:59
+2015-07-19 12:52:46 [127.0.0.1] [Fatal Error] Class 'Admin\Base' not found in D:\apache-2.4.12\htdocs\or\application\Controller\Admin\Home.php:7
+2015-07-19 12:57:32 [127.0.0.1] [Parse Error] syntax error, unexpected '=' in D:\apache-2.4.12\htdocs\or\application\Controller\Admin\Base.php:12
+2015-07-19 13:01:19 [127.0.0.1] [Fatal Error] Class 'Controller\Admin\View' not found in D:\apache-2.4.12\htdocs\or\application\Controller\Admin\Base.php:21
+2015-07-19 13:34:13 [127.0.0.1] [Fatal Error] Class 'Controller\Admin\View' not found in D:\apache-2.4.12\htdocs\or\application\Controller\Admin\Home.php:10
+2015-07-19 13:49:27 [127.0.0.1] [Notice] Undefined index: admin/home in D:\apache-2.4.12\htdocs\or\vendor\Router.php:156
+2015-07-19 14:27:18 [91.207.27.63] [Fatal Error] Class '\Controller\admin\Home' not found in /home/u207990156/public_html/vendor/Controller.php:31
+2015-07-19 14:32:17 [91.207.27.63] [Fatal Error] Class '\Controller\admin\Home' not found in /home/u207990156/public_html/vendor/Controller.php:31
+2015-07-19 14:33:10 [91.207.27.63] [Fatal Error] Class '\Controller\admin\Home' not found in /home/u207990156/public_html/vendor/Controller.php:31
+2015-07-19 14:33:10 [91.207.27.63] [Fatal Error] Class '\Controller\admin\Home' not found in /home/u207990156/public_html/vendor/Controller.php:31
+2015-07-19 14:34:04 [91.207.27.63] [Fatal Error] Class '\Controller\admin\Home' not found in /home/u207990156/public_html/vendor/Controller.php:31
+2015-07-19 14:34:04 [91.207.27.63] [Fatal Error] Class '\Controller\admin\Home' not found in /home/u207990156/public_html/vendor/Controller.php:31
+2015-07-19 14:34:22 [91.207.27.63] [Fatal Error] Class '\Controller\admin\Home' not found in /home/u207990156/public_html/vendor/Controller.php:31
+2015-07-19 14:34:22 [91.207.27.63] [Fatal Error] Class '\Controller\admin\Home' not found in /home/u207990156/public_html/vendor/Controller.php:31
+2015-07-19 14:35:34 [91.207.27.63] [Fatal Error] Class '\Controller\admin\Home' not found in /home/u207990156/public_html/vendor/Controller.php:31
+2015-07-19 14:36:18 [91.207.27.63] [Fatal Error] Class '\Controller\admin\Home' not found in /home/u207990156/public_html/vendor/Controller.php:31
+2015-07-19 14:36:19 [91.207.27.63] [Fatal Error] Class '\Controller\admin\Home' not found in /home/u207990156/public_html/vendor/Controller.php:31
+2015-07-19 14:36:23 [91.207.27.63] [Fatal Error] Class '\Controller\admin\Home' not found in /home/u207990156/public_html/vendor/Controller.php:31
+2015-07-19 14:40:26 [91.207.27.63] [Fatal Error] Class 'Router' not found in /home/u207990156/public_html/index.php:41
+2015-07-19 16:47:54 [127.0.0.1] [Notice] Undefined index: editArticle in D:\apache-2.4.12\htdocs\myframework\vendor\Router.php:153
