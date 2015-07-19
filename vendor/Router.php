@@ -1,18 +1,73 @@
 <?php
+/**
+ * Класс маршрутизации.
+ * 
+ * @author     Мистер Х
+ * @copyright  Copyright (c) 2015
+ */
 
 class Router {
+    
+	/**
+	 * Дефолтный контроллер
+	 * @var string
+	 */
     const DEFAUL_CONTROLLER = 'Default';
+    
+	/**
+	 * Деволтное действие контроллера
+	 * @var string
+	 */
     const DEFAUL_ACTION     = '';
+    
+	/**
+	 * Префикс пространства имен
+	 * @var string
+	 */
     const NS_PREFIX         = '\\Controller';
     
+	/**
+	 * path_info
+	 * @var string
+	 */
     static private $path;
+    
+	/**
+	 * Наши маршруты
+	 * @var array
+	 */
     static private $config = [];
     
+	/**
+	 * Пространство имен запрашиваемого контроллера
+	 * @var array
+	 */
     static private $namespace = '\\';
+    
+	/**
+	 * Имя контроллера
+	 * @var array
+	 */
     static private $controller;
+    
+	/**
+	 * Имя действия
+	 * @var array
+	 */
     static private $action;
+    
+	/**
+	 * Аргументы
+	 * @var array
+	 */
     static private $args = [];
     
+	/**
+	 * Сборка конфигурации и инициализация маршрута
+	 * 
+	 * @param mixed $handler
+	 * @return void
+	 */
     static public function process($path, array $config)
     {
         self::$path = ltrim($path, '/');
@@ -40,6 +95,11 @@ class Router {
         self::init();
     }
     
+	/**
+	 * Инициализация маршрута
+	 * 
+	 * @return void
+	 */
     static private function init()
     {
         if (self::find(self::$config)) {
@@ -59,6 +119,14 @@ class Router {
         throw new Exception('Path does not match any rule', 404);
     }
     
+	/**
+	 * Поиск маршрута
+     * 
+     * После нахождения маршрута можно будет пользоватся get... методами
+	 * 
+	 * @param mixed $handler
+	 * @return void
+	 */
     static private function find(array $nsConfig, $nsName = null)
     {
         if (!isset($nsConfig['rules'])) {
