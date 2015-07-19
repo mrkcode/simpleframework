@@ -10,54 +10,63 @@ class Router {
     
 	/**
 	 * Дефолтный контроллер
+     * 
 	 * @var string
 	 */
     const DEFAUL_CONTROLLER = 'Default';
     
 	/**
 	 * Деволтное действие контроллера
+     * 
 	 * @var string
 	 */
     const DEFAUL_ACTION     = '';
     
 	/**
 	 * Префикс пространства имен
+     * 
 	 * @var string
 	 */
     const NS_PREFIX         = '\\Controller';
     
 	/**
 	 * path_info
+     * 
 	 * @var string
 	 */
     static private $path;
     
 	/**
 	 * Наши маршруты
+     * 
 	 * @var array
 	 */
     static private $config = [];
     
 	/**
 	 * Пространство имен запрашиваемого контроллера
-	 * @var array
+     * 
+	 * @var string
 	 */
     static private $namespace = '\\';
     
 	/**
 	 * Имя контроллера
-	 * @var array
+     * 
+	 * @var string
 	 */
     static private $controller;
     
 	/**
 	 * Имя действия
-	 * @var array
+     * 
+	 * @var string
 	 */
     static private $action;
     
 	/**
 	 * Аргументы
+     * 
 	 * @var array
 	 */
     static private $args = [];
@@ -65,7 +74,8 @@ class Router {
 	/**
 	 * Сборка конфигурации и инициализация маршрута
 	 * 
-	 * @param mixed $handler
+	 * @param string $path
+	 * @param array $config
 	 * @return void
 	 */
     static public function process($path, array $config)
@@ -124,7 +134,8 @@ class Router {
      * 
      * После нахождения маршрута можно будет пользоватся get... методами
 	 * 
-	 * @param mixed $handler
+	 * @param array $nsConfig
+	 * @param string $nsName
 	 * @return void
 	 */
     static private function find(array $nsConfig, $nsName = null)
